@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="138af190-b2c9-43e2-b569-0f8ced1a9d3f" name="Changes" comment="Structure design">
+    <list default="true" id="138af190-b2c9-43e2-b569-0f8ced1a9d3f" name="Changes" comment="&quot;person class updated&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/Applicant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/Applicant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/Leave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/Leave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/decagon/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/person/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663609775752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;person class updated&quot;">
+      <created>1663613657975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663613657975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Structure design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Structure design" />
+    <MESSAGE value="&quot;person class updated&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;person class updated&quot;" />
   </component>
 </project>
