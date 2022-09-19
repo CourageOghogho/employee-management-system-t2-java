@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="138af190-b2c9-43e2-b569-0f8ced1a9d3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/Applicant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/ApplicationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/ApplicationServiceImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/applicant/QUALIFICATION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/AccountantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/AccountantServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/Attendance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/CEOService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/CEOServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/Leave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/ManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/ManagerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/ROLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/StaffService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/employee/StaffServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/person/GENDER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/person/Person.java" afterDir="false" />
+    <list default="true" id="138af190-b2c9-43e2-b569-0f8ced1a9d3f" name="Changes" comment="Structure design">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/decagon/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/decagon/person/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663605219991</updated>
     </task>
+    <task id="LOCAL-00001" summary="Structure design">
+      <created>1663609775752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663609775752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Structure design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structure design" />
   </component>
 </project>
