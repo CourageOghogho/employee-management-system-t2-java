@@ -1,4 +1,4 @@
 package dev.decagon.employee;
 
-public interface StaffService {
+public interface StaffService extends EmployeeCoreService {
 }
